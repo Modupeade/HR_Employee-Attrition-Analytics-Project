@@ -13,6 +13,9 @@
 ### Project Overview
 This data analysis project aims to provide insights into employee attrition at IBM by comparing the characteristics of employees who have left the company with those who remain employed. The goal is to identify key trends, understand factors influencing employee turnover, and make data-driven recommendations that can help improve employee retention and overall company performance.
 
+
+![HR Employee Attrition Analysis](https://github.com/user-attachments/assets/f49ba507-f401-4485-be7d-d64dbf27b7a9)
+
 ### Data Sources
 HR Attrition Data: The data was sourced from Kaggle and contains both demographic and job-related attributes of employees.
 
