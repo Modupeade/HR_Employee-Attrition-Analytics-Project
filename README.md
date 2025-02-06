@@ -60,20 +60,28 @@ Marital Status Influence: Single males exhibit a significantly higher attrition 
 
 ### Recommendations
 Based on the analysis I would recommend the follwing actions:
-  1. Reduce Attrition in Life Sciences & Medical Fields
-    - Gather employee feedback to identify job dissatisfaction.
-    - Provide career development opportunities and training.
-    - Review workload and compensation for fairness.
-    - Foster a positive work culture with recognition programs.
-  3. Address High Attrition Among Employees Aged 31-40 (Especially Males)
-    - Implement leadership development and mentorship programs.
-    - Improve work-life balance with flexible work options.
-    - Offer competitive salaries and performance incentives.
-  3. Retain Single Male Employees 
-    - Enhance social engagement through networking and team-building activities.
-    - Provide financial wellness programs and career growth opportunities.
-    - Support work-life balance with mental health and wellness initiatives.
+1. Reduce Attrition in Life Sciences & Medical Fields
+- Gather employee feedback to identify job dissatisfaction.
+- Provide career development opportunities and training.
+- Review workload and compensation for fairness.
+- Foster a positive work culture with recognition programs.
+ 
+2. Address High Attrition Among Employees Aged 31-40 (Especially Males)
+- Implement leadership development and mentorship programs.
+- Improve work-life balance with flexible work options.
+- Offer competitive salaries and performance incentives.
+     
+3. Retain Single Male Employees
+- Enhance social engagement through networking and team-building activities.
+- Provide financial wellness programs and career growth opportunities.
+- Support work-life balance with mental health and wellness initiatives.
 
 ### Conclusion
-
   This Power BI report highlights key factors influencing attrition and provides actionable insights. The findings can help HR teams develop targeted retention strategies,     ultimately reducing employee turnover and improving overall company performance.
+  
+### References
+[Dataset](kaggle.com)
+
+[Flaticons](https://www.flaticon.com/)
+
+Thank you 🙂  
